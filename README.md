@@ -2,9 +2,6 @@
 
 🌐 [**cbergillos.com**](https://cbergillos.com/)
 
-![result_bcn](https://user-images.githubusercontent.com/1731534/188742385-94f97a26-f6f7-426d-87ca-724c8cd0d699.png)
-
-
 <!--
 **CarlosBergillos/CarlosBergillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
